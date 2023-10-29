@@ -21,7 +21,8 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 ## Links
 
-[GitHub]()
-[Deploy]()
+[GitHub](https://github.com/manoelarcanjo/clone-Prime-Video-1.0)
+
+[Deploy](https://clone-prime-video-1-0.vercel.app/)
 
 
